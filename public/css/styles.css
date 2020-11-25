@@ -1,0 +1,165 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+#title{
+  background-color: #62A3CC;
+}
+
+h1{
+  font-family: 'Montserrat-Black';
+  font-size: 1.7rem;
+  line-height: 1.5;
+  margin-top: 3rem;
+  margin-left: 1.2rem;
+
+  color: #ffffff;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu-Bold';
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+
+.navbar-nav{
+  font-size: 1.5rem;
+  padding: 0.2rem 0;
+  margin: 0 1rem;
+  color: #ffffff;
+}
+
+.nav-link{
+  margin: 0 1.5rem;
+}
+
+.Intro{
+  padding: 2% 15% 1.5%;
+  margin-bottom: 50px;
+}
+
+.homepage{
+    padding: 2% 15% 1%;
+}
+
+
+
+#iphone-btn{
+  line-height: 2;
+  margin: 3rem 1rem;
+  font-size: 1.5rem;
+  padding: 0 20px;
+}
+
+#google-btn{
+  line-height: 2;
+  margin: 3rem 2rem;
+  font-size: 1.5rem;
+  padding: 0 20px;
+}
+
+#features{
+  position: relative;
+  text-align: center;
+  background-color: #fff;
+  padding: 2% 10%;
+
+}
+
+.fas{
+  color: #00559A;
+  font-size: 5rem;
+  margin-bottom: 1rem;
+}
+
+.effect:hover{
+  color: #62A3CC;
+  border-bottom: 2px #00559A solid;
+  padding: 15px;
+  font-size: 10rem;
+  transition: .20s; /*transition effect*/
+}
+
+h3{
+  font-size: 1.5rem;
+  font-family: 'Russo One';
+}
+
+.First-tag{
+  color: #8f8f8f;
+}
+
+.Intro_paragraph{
+  color: #00559A;
+  text-align: center;
+  margin: 1%;
+  padding: 1% 15%;
+  font-size: 1.5rem;
+  font-family: 'Russo One';
+}
+
+.webpage_img{
+  width: 100%;
+  height: 100%;
+  margin-top: 5rem;
+  margin-bottom: 1rem;
+}
+
+.sources{
+  text-align: left;
+  font-size: 12px;
+}
+
+.frontpage_source{
+  margin: 5px 9rem;
+  font-size: 13px;
+}
+
+.table{
+  text-align: center;
+  color: #00559A;
+  font-size: 1.7rem;
+  position: relative;
+  margin: 1% 25%;
+
+}
+
+.backend_table{
+  margin: 0 28%;
+}
+
+h2{
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-family: 'Russo One';
+  color: #fff;
+
+}
+
+
+#iphone-btn2{
+  line-height: 2;
+  margin: 2rem 1rem;
+  font-size: 1rem;
+  padding: 0 10px;
+
+}
+
+#google-btn2{
+  line-height: 2;
+  margin: 2rem 1rem;
+  font-size: 1rem;
+  padding: 0 10px;
+}
+
+#footer{
+  text-align: center;
+  background-color: #fff;
+  color: #62A3CC;
+  margin-bottom: 3rem;
+}
+.footer-icon{
+  margin: 3rem 5rem 1.5rem;
+  font-size: 1.5rem;
+}

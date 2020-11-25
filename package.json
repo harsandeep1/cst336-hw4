@@ -1,0 +1,23 @@
+{
+  "name": "cst336-hw4",
+  "version": "1.0.0",
+  "description": "cst336 homework4",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsandeep1/cst336-hw4.git"
+  },
+  "author": "Harsandeep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsandeep1/cst336-hw4/issues"
+  },
+  "homepage": "https://github.com/harsandeep1/cst336-hw4#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
